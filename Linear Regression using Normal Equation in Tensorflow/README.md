@@ -7,4 +7,4 @@ In the notebook an artificial dataset is created using Python Numpy Library.
 Then a Linear Regression model is trained on this artificially generated dataset usint the Normal Equation. 
 Later a new test set is created and predictions are made about the test set using a weighted sum of inputs.
 
-This Python Notebook contains code to the following blog- 
+This Python Notebook contains code to the following blog- https://deeplearninguniversity.com/training-a-linear-regression-model-using-tensorflow/
